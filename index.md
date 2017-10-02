@@ -1,5 +1,8 @@
-# Lund Universitets brassband
-### Schema hösten 2017
+---
+title: Lunds universitets brassband
+---
+
+# Schema hösten 2017
 
 | Datum  |             | Tid           | Plats                 |                               | Fika                 |
 |--------|-------------|---------------|-----------------------|-------------------------------|----------------------|
