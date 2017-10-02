@@ -1,5 +1,6 @@
 # Lund Universitets brassband
 ### Schema hösten 2017
+
 | Datum  |             | Tid           | Plats                 |                               | Fika                 |
 |--------|-------------|---------------|-----------------------|-------------------------------|----------------------|
 | 29 aug | Tuttirep    | 19.00-21.30   | Palaestra             |                               | Karna Eilert         |
