@@ -1,5 +1,6 @@
 ---
 title: Lunds universitets brassband
+date: 2017-10-02
 ---
 
 # Schema hösten 2017
