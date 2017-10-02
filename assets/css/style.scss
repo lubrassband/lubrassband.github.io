@@ -1,6 +1,10 @@
 ---
 ---
 
+$header-bg-color: #551599;
+$header-bg-color-secondary: #551599;
+$section-headings-color: #551599;
+
 @import "{{ site.theme }}";
 
 .main-content {
@@ -31,3 +35,4 @@
     font-size: 1.75rem;
   }
 }
+
