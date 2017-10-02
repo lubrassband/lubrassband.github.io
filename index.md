@@ -5,7 +5,7 @@ title: Lunds universitets brassband
 # Schema hösten 2017
 
 | Datum  |             | Tid           | Plats                 |                               | Fika                 |
-|--------|-------------|---------------|-----------------------|-------------------------------|----------------------|
+|:-------|:------------|:--------------|:----------------------|:------------------------------|:---------------------|
 | 29 aug | Tuttirep    | 19.00-21.30   | Palaestra             |                               | Karna Eilert         |
 | 5 sep  | Tuttirep    | 19.00-21.30   | Palaestra             |                               | Monica Kaija         |
 | 12 sep | Stämrep     | 19.00-21.30   | Palaestra             | Stämrep                       | Josefine Ekdahl      |
