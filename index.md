@@ -34,5 +34,4 @@ date: 2017-09-05
 | 5 dec      | Tuttirep    | 19.00-21.30       | Palaestra                 |                                | Niklas Mårtensson    |
 | 12 dec     | Tuttirep    | 19.00-21.30       | Palaestra                 |                                | Sam Persson          |
 | **15 dec** | **Konsert** | **19.00**         | **Maria Magdalena kyrka** | **Julkonsert**                 |                      |
-| **16 dec** | **Konsert** | **16.00**         | **Helgeandskyrkan**       | **Julkonsert**                 |                      |                  |
-| **16 dec** | **Konsert** | **16.00**        | **Helgeandskyrkan**       | **Julkonsert**                    |                      |
+| **16 dec** | **Konsert** | **16.00**         | **Helgeandskyrkan**       | **Julkonsert**                 |                      |
